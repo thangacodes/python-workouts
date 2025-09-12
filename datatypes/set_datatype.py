@@ -5,6 +5,7 @@ Every time you print a set, the order of elements may appear different.
 Sets are also unique collections, so duplicate values are not allowed.
 """
 
-orders = {"soap","shampoo","oil","comb","soap"}
+orders = {"soap","shampoo","oil","comb","soap","oil"}
 print(orders)
 print(type(orders))
+print(len(orders))
