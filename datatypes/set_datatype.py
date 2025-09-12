@@ -25,7 +25,12 @@ mixture = { 1, 2, 4, 6, "India", "America", "Google", True, False }
 print(mixture)
 print(type(mixture))
 print(len(mixture))
-
+t.sleep(1)
+## Set constructor
+setcons = set(("India", "Google", "Apple", 1, 2, 5, 15, True, False))
+print(setcons)
+print(type(setcons))
+print(len(setcons))
 """
 Note: In Python,
 
