@@ -1,6 +1,6 @@
-```bash
 # Python workouts:
-  This repository contains all of my Python programs and scripts.
+  This repository includes all of my Python programs and scripts
+```bash
 
 # 📁 Folder Structure:
   api_folder
