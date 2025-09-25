@@ -6,6 +6,7 @@
   api_folder
   boto3_Scripts
   ci_integration
+  common_exercises
   devops_script
   GraphQL
   learn_python
@@ -19,6 +20,10 @@
   script_styles
   tf_executor
   Tkinter
+
+```
+
+```bash
 
 # 📄 File Handling Using Python:
   "r" - Read   -> Default value. Opens a file for reading, error if the file does not exist.
