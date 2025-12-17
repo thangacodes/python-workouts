@@ -10,8 +10,10 @@ from qrcode.constants import ERROR_CORRECT_H
 script_runtime = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 print(f"The script ran at: {script_runtime}")
 
+# variables
+url = "https://www.try-devops.xyz"
 # Get URL from user
-url = input("Enter the URL to generate QR code for: ")
+#url = input("Enter the URL to generate QR code for: ")
 
 # Create QR code
 trydevops = qrcode.QRCode(
