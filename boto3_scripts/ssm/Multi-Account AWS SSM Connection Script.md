@@ -25,7 +25,7 @@ This script has been enhanced to support **multiple AWS accounts (profiles)** de
 ```bash
 ssm <instance-id | instance-name> [--verbose]
 
-root@INB-512693:~# ssm i-0fdb320b341ce11c1 --verbose
+root@mymachine:~# ssm i-0fdb320b341ce11c1 --verbose
 =====================================================================================
 Script is to connect the running machine in aws account using ssm over ssh method
 =====================================================================================
